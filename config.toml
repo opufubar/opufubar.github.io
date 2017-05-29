@@ -3,7 +3,6 @@ languageCode = "ja"
 title = "大阪府立大学 プログラミングサークル OPU_Fu-Bar"
 
 theme = "nix"
-disqusShortname = "Sample disqus"
 
 [menu]
   [[menu.header]]
