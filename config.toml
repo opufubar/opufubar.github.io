@@ -1,0 +1,28 @@
+baseURL = "http://opufubar.github.io/"
+languageCode = "ja"
+title = "大阪府立大学 プログラミングサークル OPU_Fu-Bar"
+
+theme = "nix"
+disqusShortname = "Sample disqus"
+
+[menu]
+  [[menu.header]]
+    name = "Dialy"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "About us"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "opufubar"
+  TwitterID = "opu_fu_bar"
+  GoogleplusID = "102636047177614888571"
+  FacebookID = "your_facebook"
+  Name = "Mr Hugo"
+  HeaderUsername = "hugo"
+  HeaderHostname = "hugo"
+  Email = "your_email"
+  About = "Hi I'm Hugo and this is my website. I am a developer, writer and family man. I like developing websites using Hugo, sports, nature, photography and travel. On this websites you can expect my projects and blog posts about everything I love. Enjoy!"
+  ProfilePicture = "/profile.jpg"
