@@ -13,6 +13,10 @@ theme = "nix"
     name = "about-us"
     weight = 1
     url = "/about"
+  [[menu.header]]
+    name = "member"
+    weight = 2
+    url = "/member"
 
 [params]
   GithubID = "opufubar"
