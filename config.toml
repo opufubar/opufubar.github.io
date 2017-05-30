@@ -1,6 +1,6 @@
 baseURL = "https://opufubar.github.io/"
 languageCode = "ja"
-title = "大阪府立大学 プログラミングサークル OPU_Fu-Bar"
+title = "大阪府立大学 教育系ITサークル OPU_Fu-Bar"
 
 theme = "nix"
 
@@ -26,7 +26,7 @@ theme = "nix"
   GithubID = "opufubar"
   TwitterID = "opu_fu_bar"
   GoogleplusID = "102636047177614888571"
-  Name = "プログラミングサークル　Fu-Bar"
+  Name = "教育系ITサークル　Fu-Bar"
   HeaderUsername = "opu"
   HeaderHostname = "fu-bar"
   Email = "opu.fubar@gmail.com"
