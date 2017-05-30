@@ -45,6 +45,9 @@
 					{{ with .Site.Params.Email }}
 					<a href="mailto:{{.}}" title="Email"><i class="fa fa-envelope fa-3x" aria-hidden="true"></i></a>
 					{{ end }}
+					{{ with .Site.Params.Slack }}
+					<a href="https://opufubar-slack-adder.herokuapp.com/" title="Slack"><i class="fa fa-slack fa-3x" aria-hidden="true"></i></a>
+					{{ end }}
 
 
 				</div>
