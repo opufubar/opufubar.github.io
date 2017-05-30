@@ -10,9 +10,11 @@ title = "Member"
 - 代表です．コメントはまだ．
 
 <hr />
-## 油谷 <img src="/image/member/aburatani.png" width="50" height="50" />
+## <a href="https://tomokiaburatani.github.io/">油谷 <img src="/image/member/aburatani.png" width="50" height="50" /></a>
+- 人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　知識システム研究室所属です．
 - メインのメンバーの一人です．CommonLispを中心にプログラム全般が好きです．ElixirやPrologをメインに書きます．
-- 関西Lispユーザ会を開催しています．
+- 関西Lispユーザ会を主催しています．
+- 主に人間を系に含んだ人工知能，学習科学，教育システムなどを研究しています．
 
 <hr />
 ## 橋本 <img src="/image/member/hashimoto.png" width="50" height="50" />

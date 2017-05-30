@@ -4,9 +4,10 @@ title = "About us"
 
 +++
 
+<img src="/image/fubar-logo.png" width="100" height="100" />
+
 # プログラミングサークル Fu-Barとは
 大学で学ぶ以上の，実戦に耐えるプログラミングスキルを高め合うことを目的としたサークルです．
 勉強会，LT大会，ハッカソン，小学生への教育事業など，プログラミングに関わるいろいろを行っていく予定です．
 
-<img src="/image/profile.jpg" width="100" height="100" />
 

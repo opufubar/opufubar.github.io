@@ -1,4 +1,4 @@
-baseURL = "https://opufubar.github.io/"
+baseURL = "https://opufubar.com/"
 languageCode = "ja"
 title = "大阪府立大学 プログラミングサークル OPU_Fu-Bar"
 
@@ -31,4 +31,4 @@ theme = "nix"
   HeaderHostname = "fu-bar"
   Email = "opu.fubar@gmail.com"
   About = "我々は大学では完全に教わることができず，実質，企業に就職してから学ぶことになっているプログラミングの技術を学生間で学び合い，スキルを高めることを目的としたサークルです．大阪府立大学の学生を中心に活動しています．"
-  ProfilePicture = "/images/fubar-logo.png"
+  ProfilePicture = "/image/fubar-logo.png"
