@@ -9,5 +9,3 @@ title = "About us"
 
 大学で学ぶ以上の，実戦に耐えるプログラミングスキルを高め合うことを目的としたサークルです．
 勉強会，LT大会，ハッカソン，小学生への教育事業など，プログラミングに関わるいろいろを行っていく予定です．
-
-<object data="/image/flyer/flyer.pdf" type="application/pdf" ></object>
