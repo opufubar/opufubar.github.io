@@ -17,10 +17,6 @@ theme = "nix"
     name = "member"
     weight = 2
     url = "/member"
-  [[menu.header]]
-    name = "document"
-    weight = 3
-    url = "/document"
 
 [params]
   GithubID = "opufubar"
