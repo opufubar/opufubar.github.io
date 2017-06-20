@@ -7,7 +7,7 @@ title = "Member"
 # Fu-Barのコアメンバー
 <hr />
 ## 油田（代表） <img src="/image/member/aburata.png" width="50" height="50" />
-- 代表です．コメントはまだ．
+- 代表ですが元マネジメント学類の文系で、プログラム歴半年くらいです。メンバーと共に頑張ってます！
 
 <hr />
 ## <a href="/">油谷 <img src="/image/member/aburatani.png" width="40" height="40" /></a>
