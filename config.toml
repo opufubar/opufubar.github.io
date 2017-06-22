@@ -6,7 +6,7 @@ theme = "nix"
 
 [menu]
   [[menu.header]]
-    name = "Dialy"
+    name = "dialy"
     weight = 0
     url = "/post"
   [[menu.header]]
@@ -31,3 +31,5 @@ theme = "nix"
   AboutAddress = "opu.fubar[at]gmail.com"
   ProfilePicture = "/image/fubar-logo.png"
 
+[events]
+  latest = "2017年6月1日(木): サークル説明会　(A6棟3階)"
