@@ -48,27 +48,30 @@
 	  {{ with .Site.Params.Slack }}
 	  <a href="https://opufubar-slack-adder.herokuapp.com/" title="Slack"><i class="fa fa-slack fa-3x" aria-hidden="true"></i></a>
 	  {{ end }}
-
-
 	</div>
       </div>
       <div class="row">
 	<hr />
 	<div class="text-center">
-	  {{ partial "recent-event.html" }}
+	  {{ .Site.Params.events.latest }} {{ partial "recent-event.html" }}
 	  </div>
 	  <div style="clear:both;"></div>
 	  
 	  <hr />
 	  <div class="col-md-4 col-md-offset-4 text-center">
+	    <button onclick="TogetherJS(this); return false;">チャット</button>
 	    <h1>一言</h1>
 	  </div>
 	  <div style="clear:both;"></div>
-	<div class="col-md-4 col-md-offset-4 user-description text-center">
+
+	  <div class="col-md-4 col-md-offset-4 user-description text-center">
+
 	  <p>{{ .Site.Params.About }}</p>
 	  
 	</div>
+	
 	<div style="clear:both;"></div><br />
+
       </div>
       <div class="push"></div>
     </div>

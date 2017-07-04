@@ -6,7 +6,7 @@ theme = "nix"
 
 [menu]
   [[menu.header]]
-    name = "Dialy"
+    name = "dialy"
     weight = 0
     url = "/post"
   [[menu.header]]
@@ -23,7 +23,7 @@ theme = "nix"
   TwitterID = "opu_fu_bar"
   GoogleplusID = "102636047177614888571"
   Slack = "opu.fubar"
-  Name = "教育系ITサークル　Fu-Bar"
+  Name = "教育系ITサークル Fu-Bar"
   HeaderUsername = "opu"
   HeaderHostname = "fu-bar"
   Email = "opu.fubar@gmail.com"
@@ -31,3 +31,5 @@ theme = "nix"
   AboutAddress = "opu.fubar[at]gmail.com"
   ProfilePicture = "/image/fubar-logo.png"
 
+[events]
+  latest = "2017年7月4日(火): サークル説明会　(A6棟3階)"
