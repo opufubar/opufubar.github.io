@@ -27,7 +27,7 @@ title = "Member"
 
 <hr />
 ## 細井 <img src="/image/member/hashimoto.png" width="50" height="50" />
-- メインのメンバーの一人．
+- Hello world!
 
 <hr />
 ## 増澤 <img src="/image/member/hashimoto.png" width="50" height="50" />
