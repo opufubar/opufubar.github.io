@@ -26,5 +26,5 @@ title = "Member"
 - メインのメンバーの一人．
 
 <hr />
-## 増田 <img src="/image/member/hashimoto.png" width="50" height="50" />
+## 増澤 <img src="/image/member/hashimoto.png" width="50" height="50" />
 - メインのメンバーの1人
