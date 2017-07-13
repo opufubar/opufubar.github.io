@@ -8,7 +8,7 @@ title = "Member"
 <hr />
 ## 油田（代表） <img src="/image/member/aburata.png" width="50" height="50" />
 - 代表ですが元マネジメント学類の文系で、プログラム歴半年くらいです。メンバーと共に頑張ってます！
-- 好きな食べ物は筑前煮です。
+- 好きな食べ物は筑前煮です。ワカモレも好きです。
 
 <hr />
 ## <a href="/">油谷 <img src="/image/member/aburatani.png" width="40" height="40" /></a>
@@ -27,7 +27,7 @@ title = "Member"
 
 <hr />
 ## 細井 <img src="/image/member/hashimoto.png" width="50" height="50" />
-- メインのメンバーの一人．
+- Hollo World!
 
 <hr />
 ## 増澤 <img src="/image/member/hashimoto.png" width="50" height="50" />
