@@ -8,6 +8,7 @@ title = "Member"
 <hr />
 ## 油田（代表） <img src="/image/member/aburata.png" width="50" height="50" />
 - 代表ですが元マネジメント学類の文系で、プログラム歴半年くらいです。メンバーと共に頑張ってます！
+- 筑前煮が好きです
 
 <hr />
 ## <a href="https://tomokiaburatani.github.io/papers/">油谷 <img src="/image/member/aburatani.png" width="40" height="40" /></a>
