@@ -17,16 +17,18 @@ title = "Member"
 - 関西Lispユーザ会を主催しています．
 - 主に人間を系に含んだ人工知能，学習科学，教育システムなどを研究しています．
 
+
 <hr />
 ## 橋本 <img src="/image/member/hashimoto.png" width="50" height="50" />
 - 人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　知識システム研究室所属（油谷と同じ）です．
 - メインのメンバーの一人です．
 - 教育情報システムを研究しています．
 - プログラム好きですが，ガチプログラマーでは無いですいじめないでください．
+- Macにステッカーを貼るのが好きです．
 
 <hr />
-## 細井 砂太朗<img src="/image/member/isutanbul.jpg" width="50" height="50" />
-- Hollo World!
+## 細井 砂太朗 <img src="/image/member/istanbul_0.jpg" width="50" height="50" />
+- Hollo World !
 - 創業メンバーです．
 
 <hr />
