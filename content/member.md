@@ -7,11 +7,8 @@ title = "Member"
 <hr />
 ## 油田（代表） <img src="/image/member/aburata.png" width="50" height="50" />
 - 代表ですが元マネジメント学類の文系で、プログラム歴半年くらいです。メンバーと共に頑張ってます！
-<<<<<<< HEAD
-- 好きな食べ物は筑前煮です。ワカモレも好きです。
-=======
 - <a href="http://www.kikkoman.co.jp/homecook/search/recipe/00004680/index.html">筑前煮</a>が好きです
->>>>>>> 0d9d078a430a31f418ddef6f522edafa813ca826
+
 
 <hr />
 ## <a href="https://tomokiaburatani.github.io">油谷 <img src="/image/member/aburatani.png" width="40" height="40" /></a>
