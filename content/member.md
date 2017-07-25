@@ -25,8 +25,9 @@ title = "Member"
 - プログラム好きですが，ガチプログラマーでは無いですいじめないでください．
 
 <hr />
-## 細井 <img src="/image/member/hashimoto.png" width="50" height="50" />
+## 細井 砂太朗<img src="/image/member/isutanbul.jpg" width="50" height="50" />
 - Hollo World!
+- 創業メンバーです．
 
 <hr />
 ## 増澤 <img src="/image/member/hashimoto.png" width="50" height="50" />
