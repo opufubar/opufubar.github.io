@@ -10,7 +10,7 @@ title = "Member"
 <<<<<<< HEAD
 - 好きな食べ物は筑前煮です。ワカモレも好きです。
 =======
-- 筑前煮が好きです
+- <a href="http://www.kikkoman.co.jp/homecook/search/recipe/00004680/index.html">筑前煮</a>が好きです
 >>>>>>> 0d9d078a430a31f418ddef6f522edafa813ca826
 
 <hr />
