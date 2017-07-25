@@ -33,6 +33,6 @@ title = "Member"
 
 <hr />
 ## 増澤 <img src="/image/member/hashimoto.png" width="50" height="50" />
-- test
+- 初めまして
 
 <hr />
