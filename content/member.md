@@ -29,7 +29,8 @@ title = "Member"
 <hr />
 ## 細井 砂太朗 <img src="/image/member/istanbul_0.jpg" width="50" height="50" />
 - Hollo World !
-- 創業メンバーです．
+- 初心者, 創業メンバー
+- 応化です
 
 <hr />
 ## 増澤 <img src="/image/member/hashimoto.png" width="50" height="50" />
