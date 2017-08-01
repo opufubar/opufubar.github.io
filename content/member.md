@@ -16,7 +16,7 @@ title = "Member"
 - CommonLispを中心にプログラム全般が好きです．ElixirやPrologをメインに書きます．
 - 関西Lispユーザ会を主催しています．
 - 主に人間を系に含んだ人工知能，学習科学，教育システムなどを研究しています．
-
+- オントロジー，エキスパートシステムなどの技術を使います．
 
 <hr />
 ## 橋本 <img src="/image/member/hashimoto.png" width="50" height="50" />
