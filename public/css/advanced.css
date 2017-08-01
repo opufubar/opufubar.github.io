@@ -1,0 +1,9 @@
+.event-list {
+    
+}
+
+.event-list-option {
+    padding-left: 10px;
+    list-style-type: circle;
+    font-size: 1.5em;
+}

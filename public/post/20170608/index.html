@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> Gitの使い方の基本をレクチャー &middot; 大阪府立大学 教育系ITサークル OPU_Fu-Bar </title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.13" />
+
+
+<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://togetherjs.com/togetherjs-min.js"></script>
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://opufubar.github.io/css/nix.css">
+<link rel="stylesheet" href="https://opufubar.github.io/css/advanced.css">
+
+ 
+<link href="https://fonts.googleapis.com/css?family=Inconsolata|Open+Sans|Roboto|Montserrat|Concert+One" rel="stylesheet">
+
+
+
+
+    </head>
+
+    <body>
+        <header>
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" id="green-terminal" href=https://opufubar.github.io/>opu@fu-bar ~ $</a>
+		</div>
+
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="https://opufubar.github.io/">/home</a>
+				</li>
+				
+				
+				<li >
+					<a href="/about">~/about-us</a>
+				</li>
+				
+				
+				<li >
+					<a href="/member">~/member</a>
+				</li>
+				
+				
+				<li >
+					<a href="/product">~/product</a>
+				</li>
+				
+				
+				<li >
+					<a href="/post">~/dialy</a>
+				</li>
+				
+
+			</ul>
+		</div>
+	</div>
+</nav>
+</header>
+
+        <div class="container wrapper">
+            <h1><a href="https://opufubar.github.io/post/20170608/">Gitの使い方の基本をレクチャー</a></h1>
+            <span class="post-date">Jun 8, 2017 </span>
+            <div class="post-content">
+                <p><br /></p>
+
+<p>こんにちは，油谷です．
+本日は一部のメンバーに対して，Gitの基本的な使い方をレクチャーしました．
+本当に基本的な部分だけにとどめましたが，プログラムをちゃんと書いていくことになるなら少なくとも知っていることがBetterですよね．</p>
+
+<p></p>
+
+<h2 id="レクチャー用の教材">レクチャー用の教材</h2>
+
+<p>今回はとにかくGitってこんな働きをするものだよってことを理解してもらえればいいかなと思っていたので，
+説明に使うのはGithubの既存のリポジトリということにしました．</p>
+
+<p>ついでにサークル的にもメリットがあれば一石二鳥ということで，
+Github Pagesを使って公開している本ホームページを更新してもらうことで，
+なんとなーくGitの働きを理解してもらおうという算段でした．</p>
+
+<h2 id="説明の内容">説明の内容</h2>
+
+<p>今回は以下な感じで，とっても簡単な説明だけしました．
+1. リモートのリポジトリをクローンして，
+2. ファイルを更新，
+3. ローカルリポジトリに追加・コミット，
+4. リモートリポジトリにPush，
+5. 新しくファイルを変更する前に変更をPull</p>
+
+<p>といった内容だけ取り上げました．
+少しややこしかったかなと思うのは，本ページはHugoを用いて生成しているのですが，
+Github PagesとHugoの組み合わせと，その挙動を理解するのに多少難色が見られたように感じました．</p>
+
+<p>今度誰かに教えることがあれば，まずは適当なスクリプト言語か何かのHello worldを書いて，
+そこでイニシャライズ，Githubのページ作成，リモートリポジトリの追加，コミット，プッシュの流れでやってみようかなぁと思います．</p>
+
+<p>分散開発用ツールを使用したことのない人は，そもそもGitの概念を理解することが容易ではないのでしょう．</p>
+
+<p>どこから理解してもらえれば良いのかが僕の中でも明確でないということは，自分の理解もまだまだだということでしょう．
+頑張ってうまい説明をするようになりたいですねぇ</p>
+
+<p>以上！
+次回は何をするんでしょうか？</p>
+
+<p>それでは！</p>
+            </div>
+            
+            <div class="post-comments">
+            </div>
+            
+            <div class="push"></div>
+        </div>
+        <footer class="footer text-center">
+  <p>Copyright &copy; 2017 教育系ITサークル Fu-Bar All right reserved 
+  <address>opu.fubar[at]gmail.com</address>
+</span>
+</p>
+</footer>
+
+    </body>

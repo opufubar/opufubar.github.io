@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> PC組み立てとLinuxの基礎 &middot; 大阪府立大学 教育系ITサークル OPU_Fu-Bar </title>
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.13" />
+
+
+<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://togetherjs.com/togetherjs-min.js"></script>
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://opufubar.github.io/css/nix.css">
+<link rel="stylesheet" href="https://opufubar.github.io/css/advanced.css">
+
+ 
+<link href="https://fonts.googleapis.com/css?family=Inconsolata|Open+Sans|Roboto|Montserrat|Concert+One" rel="stylesheet">
+
+
+
+
+    </head>
+
+    <body>
+        <header>
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse font-header">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" id="green-terminal" href=https://opufubar.github.io/>opu@fu-bar ~ $</a>
+		</div>
+
+		
+		<div class="collapse navbar-collapse" id="navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="https://opufubar.github.io/">/home</a>
+				</li>
+				
+				
+				<li >
+					<a href="/about">~/about-us</a>
+				</li>
+				
+				
+				<li >
+					<a href="/member">~/member</a>
+				</li>
+				
+				
+				<li >
+					<a href="/product">~/product</a>
+				</li>
+				
+				
+				<li >
+					<a href="/post">~/dialy</a>
+				</li>
+				
+
+			</ul>
+		</div>
+	</div>
+</nav>
+</header>
+
+        <div class="container wrapper">
+            <h1><a href="https://opufubar.github.io/post/20170625/">PC組み立てとLinuxの基礎</a></h1>
+            <span class="post-date">Jun 25, 2017 </span>
+            <div class="post-content">
+                <p><br />
+どうも，いつもながらメンバーの油谷が書きます．
+そろそろ別の人にもどんどん書いていってもらおうかな！
+というわけで本日は，ハードウェアの基礎ぐらいは知ってないとプログラマは名乗れないよね流石に，ってことで
+PCを分解しながら各パーツの意義とかを説明しました．</p>
+
+<p></p>
+
+<p>特に，HDD/SSD，CPU，メモリの区別は初心者には結構難しいようで．．．
+大雑把に，HDは長時間保存，CPUは命令，メモリは短期保存的な説明をしても悪くはないんですが，
+これからちゃんとやっていくならその理解はまずいのでは？と考えまして，OSの働きを説明することからそれらの理解に働きかける試みをはじめました．</p>
+
+<h2 id="pcの組み立て">PCの組み立て</h2>
+
+<p>PCの分解，組み立てをしてコンピュータがどのような構成になっているのか，どのように動作するのかといった基本的なことをレクチャーしました．</p>
+
+<p>これによって，実際にプログラムが，どこにどのように動作するのか，ボトルネックは何かなどを考えながらプログラムできるようになることを狙いとしています．</p>
+
+<p>ただ，OSのによるタスクスケジューリングやページングなどの技術を知らないメンバーにメモリの実際の意義を伝えることは難しいんじゃないか，ということで，
+急遽OSについて説明することにしました．</p>
+
+<h2 id="linuxの基礎">Linuxの基礎</h2>
+
+<p>Linuxのファイルシステム（ディレクトリ構造）について説明しました．
+ルートディレクトリに始まり，ホームディレクトリ，各種ディレクトリについて簡単に触れて，それぞれの場所で管理するファイルの種類などを講義しました．</p>
+
+<p>また，シェルコマンドの基礎について説明しました．
+おそらく多用するであろう，lsコマンドや，cp，touch，mkdirなどのファイル操作用の基本的コマンドについて触れました．</p>
+
+<p>管理者権限やファイル/ディレクトの権限，隠しファイルについても触れたので，以前少しだけ話したGit（バージョン管理システム）の知識も合わせて，Linuxの基礎中の基礎知識のイメージは湧くようになたんじゃないかなぁ，と個人的には思っております．</p>
+
+<p>ちょっと一日で詰め込みすぎた感もありますが，基本がわかっていることが，これから学ぶプログラムの理解を助けると信じて．</p>
+
+<p>閑話休題，次回以降そろそろプログラムについて話していきたいと思いつつ，何をしようか迷い中なのです．
+メンバーとはJavascriptを勉強して動くものがすぐにでも見られれば，動機付けも高まるのでは？とは話しているのですが，
+如何せん僕はJSが好きではありません．．．．</p>
+
+<p>Lispを布教したと思いつつ，Pythonとの声もあり，現代のPG言語で最初に学ぶべき言語には正解はないように思えるので，選択が難しい．．．</p>
+
+<p>軽過ぎる言語に最初に触れてプログラムの強力さに気づきにくくなられても困るし，反対に最初からおもすぎても続かなさそう．</p>
+
+<p>参加してくれる人は何かやりたいことはないのでしょうか？意見を聞きたいところです．</p>
+
+<p>ではまた．</p>
+            </div>
+            
+            <div class="post-comments">
+            </div>
+            
+            <div class="push"></div>
+        </div>
+        <footer class="footer text-center">
+  <p>Copyright &copy; 2017 教育系ITサークル Fu-Bar All right reserved 
+  <address>opu.fubar[at]gmail.com</address>
+</span>
+</p>
+</footer>
+
+    </body>
