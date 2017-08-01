@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大阪府立大学 教育系ITサークル OPU_Fu-Bar</title>
+    <link>https://opufubar.github.io/</link>
+    <description>Recent content on 大阪府立大学 教育系ITサークル OPU_Fu-Bar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 01 Aug 2017 19:35:13 +0900</lastBuildDate>
+    
+	<atom:link href="https://opufubar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>product</title>
+      <link>https://opufubar.github.io/product/</link>
+      <pubDate>Tue, 01 Aug 2017 19:35:13 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/product/</guid>
+      <description> For Buissiness Contest </description>
+    </item>
+    
+    <item>
+      <title>初披露</title>
+      <link>https://opufubar.github.io/post/20170726/</link>
+      <pubDate>Wed, 26 Jul 2017 00:56:00 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170726/</guid>
+      <description>&lt;p&gt;ペーペーの細井です。代表より先に更新してみせます。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ruby on Railsはじめました</title>
+      <link>https://opufubar.github.io/post/20170719/</link>
+      <pubDate>Wed, 19 Jul 2017 00:56:00 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170719/</guid>
+      <description>&lt;p&gt;どうも油谷です．
+そろそろ何か作り出していこうということで，いろいろ考えた結果，Rubyをはじめてみることにしました．&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About us</title>
+      <link>https://opufubar.github.io/about/</link>
+      <pubDate>Mon, 17 Jul 2017 04:10:43 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/about/</guid>
+      <description>プログラミングサークル Fu-Barとは これまで本国日本は「人工知能」という分野の研究に数度失敗しています． それぞれの流行り毎に失敗の理由は異なりました．
+計算機リソースが圧倒的に足りない，人間らしくないなど．
+しかし，世の中は性懲りもなく人工知能だのビッグデータだの，プログラミング必修化だのとのたまっています．
+もちろん否定する気はありません．便利なプログラムが世の中に浸透することは望ましいことですし，もしかすると今回はうまくいくのかもしれません．
+ただし，情報科学の発展は現代社会に様々な闇を生み出す1つの要因となっていると捉えることもできるのではないでしょうか．
+無闇な情報ネットワークの発展は人同士の繋がりを弱くし，それを補うためのコミュニケーション能力を高めるといった教育が必要になりつつあります．
+Wikipediaなどの膨大なリソースに容易にアクセスできることは我々の共有知の増進に大きく寄与していますが，考える力を低下させる一つの原因となっているかもしれません．
+人々は「人工知能」という言葉に一部の方は一喜一憂し，その本質を知ることなく，技術を迎合したり，逆に強く拒絶したりします．そう捉えてしまいたくなる気持ちも理解できます．
+その新しい技術も蓋を開けてみれば単なる大量の計算を人間が考えたモデルの上で行っているに過ぎません．理論を知れば，現状ではまだそれほど恐れられる技術ではないことは予想できます．
+しかしマスコミュニケーション（テレビなど）は声を大にして有る事無い事を我々に情報として提示してくれます．
+大学で学ぶ我々は，世の中の情勢に短絡的に流されるのではなく，正しい知識に基づいた価値のある意思決定をしていきたいものです．
+このこと対して，我々は近年大学でプログラミング自体や計算機科学の基礎を学ぶことが減っていると感じています．
+例えばOSについて，正しくOSの働きを知っている人はどれだけいるのでしょうか．もしくはハードウェアアーキテクチャ．メモリ・CPU・HDD/SSDの違いを正しく説明できますか？
+応用的な知識を多く教わるようになってきているのです．
+もちろんそれ自体学問として望ましいことかもしれませんし，4年という限られた時間内でベストを尽くしてくださっていることは承知しています．
+しかしながら，情報化社会がより高度なものとなり，その中身が抽象化され，ブラックボックスとなりつつある昨今，IT（Information Technology）の知識，さらに言えばプログラミングの基礎的知識を持っておくことは，情報系の学生に留まらず，どんな学生も持っていてもおかしくない基礎的知識だと考えられます．
+我々のサークル，「大阪府立大学プログラミングサークルFu-Bar」は，大学で教えていただけること以上の，実戦に耐えうる，もしくは実際に使うときの意思決定の材料とできるプログラミングスキルを，お互いに学び，高め合うことを目的としたサークルです．
+具体的には，メンバー感の教えあいによる勉強会，LT大会，ハッカソン，外部の勉強会やイベントなどへの参加，小学生へのプログラミング教育事業など，ITに関わるいろいろな活動を行っていく予定です．
+興味のある方はぜひ一度ご連絡いただければご対応させていただきます．
+では，みなさんと会えることを楽しみにしております．</description>
+    </item>
+    
+    <item>
+      <title>PHPカンファレンス関西2017に参加させていただいた</title>
+      <link>https://opufubar.github.io/post/20170715/</link>
+      <pubDate>Sat, 15 Jul 2017 18:26:56 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170715/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;こんにちは，油谷です．
+本日はPHPカンファレンス関西2017にお邪魔してきました．
+場所がグランフロントということもあり，非常にアクセスが良く，運良く都合もついたので参加させていただきました．&lt;/p&gt;
+
+&lt;p&gt;2017年度のカンファレンスHPは&lt;a href=&#34;https://2017.kphpug.jp/&#34;&gt;こちら：https://2017.kphpug.jp/&lt;/a&gt;です．&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>本サークルの理念的なもの（油谷の中での）をまとめました</title>
+      <link>https://opufubar.github.io/post/20170701/</link>
+      <pubDate>Sat, 01 Jul 2017 00:58:51 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170701/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+タイトルの通り，油谷が考える本サークルの理念を簡単にスライドにまとめてみました．
+SlideShareにアップしています．&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PC組み立てとLinuxの基礎</title>
+      <link>https://opufubar.github.io/post/20170625/</link>
+      <pubDate>Sun, 25 Jun 2017 16:00:10 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170625/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+どうも，いつもながらメンバーの油谷が書きます．
+そろそろ別の人にもどんどん書いていってもらおうかな！
+というわけで本日は，ハードウェアの基礎ぐらいは知ってないとプログラマは名乗れないよね流石に，ってことで
+PCを分解しながら各パーツの意義とかを説明しました．&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>次回のイベント「自作PCを組み立てながらコンピュータの仕組みを理解しよう」に向けて</title>
+      <link>https://opufubar.github.io/post/20170622/</link>
+      <pubDate>Thu, 22 Jun 2017 14:47:31 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170622/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+はじめまして！メンバーの橋本です！次回の活動が決定しました！
+タイトルにあるように自作PCの組み立てを通して，楽しくコンピュータアーキテクチャを理解できたら，と考えています．&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>関西Debian勉強会さん主催Debian9リリースパーティに行ってきました！</title>
+      <link>https://opufubar.github.io/post/20170618/</link>
+      <pubDate>Mon, 19 Jun 2017 19:44:16 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170618/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+こんにちは，サークルメンバーの油谷です．
+本日，Debian9(コードネームStretch)がリリースされましたね．&lt;/p&gt;
+
+&lt;p&gt;詳しくは&lt;a href=&#34;https://wiki.debian.org/DebianStretch&#34;&gt;こちら&lt;/a&gt;を見ていただくとよろしいかと．
+関西Debian勉強会さんがリリースパーティを開くということで，僭越ながら参加させていただきました．&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://debianjp.connpass.com/event/59443/&#34;&gt;Connpassのイベントページ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gitの使い方の基本をレクチャー</title>
+      <link>https://opufubar.github.io/post/20170608/</link>
+      <pubDate>Thu, 08 Jun 2017 18:28:31 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170608/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;こんにちは，油谷です．
+本日は一部のメンバーに対して，Gitの基本的な使い方をレクチャーしました．
+本当に基本的な部分だけにとどめましたが，プログラムをちゃんと書いていくことになるなら少なくとも知っていることがBetterですよね．&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fu-Barのチラシが出来ました！</title>
+      <link>https://opufubar.github.io/post/20170607/</link>
+      <pubDate>Wed, 07 Jun 2017 12:18:04 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170607/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+Fu-Barの活動を簡単に説明したチラシが出来ました！
+凄い完成度じゃないですか？
+大阪府立大学の中百舌鳥キャンパスのあちこちに貼っているので，要Checkです！&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fu-barのLogoができました！</title>
+      <link>https://opufubar.github.io/post/20170530/</link>
+      <pubDate>Tue, 30 May 2017 14:54:14 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170530/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+本会，プログラミングサークルFu-BarのLogoができました！
+プロのデザイナーさんに頼むとやはり仕上がりが綺麗ですねー(^o^)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Documents</title>
+      <link>https://opufubar.github.io/document/</link>
+      <pubDate>Tue, 30 May 2017 05:08:08 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/document/</guid>
+      <description> 説明会などで使用したドキュメントをおいておくページです </description>
+    </item>
+    
+    <item>
+      <title>Member</title>
+      <link>https://opufubar.github.io/member/</link>
+      <pubDate>Tue, 30 May 2017 04:46:25 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/member/</guid>
+      <description> 油田（代表）   代表ですが元マネジメント学類の文系で、プログラム歴半年くらいです。メンバーと共に頑張ってます！ 筑前煮が好きです  油谷   人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　知識システム研究室所属です． CommonLispを中心にプログラム全般が好きです．ElixirやPrologをメインに書きます． 関西Lispユーザ会を主催しています． 主に人間を系に含んだ人工知能，学習科学，教育システムなどを研究しています．  橋本   人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　知識システム研究室所属（油谷と同じ）です． メインのメンバーの一人です． 教育情報システムを研究しています． プログラム好きですが，ガチプログラマーでは無いですいじめないでください． Macにステッカーを貼るのが好きです．  細井 砂太朗   Hollo World ! 創業メンバー 某、初心者故バリバリプログラミングが書けるよう邁進中 応化です  増澤   応用化学 海外ドラマ見るのが趣味 筑前煮は食べたことありません。今後も食べません。 滑舌悪い毒舌   </description>
+    </item>
+    
+    <item>
+      <title>プログラミングサークル OPU_Fu-Bar結成</title>
+      <link>https://opufubar.github.io/post/20170512/</link>
+      <pubDate>Fri, 12 May 2017 05:04:49 +0900</pubDate>
+      
+      <guid>https://opufubar.github.io/post/20170512/</guid>
+      <description>まだ活動の詳細は決まっていませんが，とにかく，大阪府立大学プログラミング（IT）サークルFu-Barを結成しました！ これから詳しい活動内容を考えていきます！</description>
+    </item>
+    
+  </channel>
+</rss>
