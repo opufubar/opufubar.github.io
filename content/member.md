@@ -35,8 +35,8 @@ title = "Member"
 
 <hr />
 ## 増澤 <img src="/image/member/hashimoto.png" width="50" height="50" />
-- 応用化学科
+- 応用化学
 - 海外ドラマ見るのが趣味
 - 筑前煮は食べたことありません。今後も食べません。
-- 毒舌
+- 滑舌悪い毒舌
 <hr />
