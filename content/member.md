@@ -35,6 +35,6 @@ title = "Member"
 
 <hr />
 ## 増澤 <img src="/image/member/hashimoto.png" width="50" height="50" />
-- test
+- 応用化学科
 
 <hr />
