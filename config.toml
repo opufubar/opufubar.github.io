@@ -15,7 +15,7 @@ theme = "nix"
     weight = 1
     url = "/about"
   [[menu.header]]
-    name = "member"
+    name = "members"
     weight = 2
     url = "/member"
   [[menu.header]]
