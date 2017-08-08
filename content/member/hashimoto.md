@@ -1,5 +1,5 @@
 +++
-title = "Haruki Hashimoto"
+title = "Hashimoto Haruki"
 +++
 
 ## 橋本 陽生<img src="/image/member/hashimoto.png" width="50" height="50" />

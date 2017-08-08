@@ -1,5 +1,5 @@
 +++
-title = "Kazuki Aburata"
+title = "Aburata Kazuki"
 +++
 
 ## 油田 一貴（代表） <img src="/image/member/aburata.png" width="50" height="50" />

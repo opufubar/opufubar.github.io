@@ -36,18 +36,4 @@ ga('create', '{{.}}', 'auto');
 	  ga('send', 'pageview');
 </script> 
 {{ end }}
-
-  
-<script type="text/javascript" src="{{ "js/simple-pagination/simple-pagination.js" | absURL }}"></script>
-<link rel="stylesheet" href="{{ "css/simple-pagination/simple-pagination.css" | absURL }}">
-
-
-<script>
-  $(function() {
-    $("#pager").pagination({
-      items: 100,
-      itemsOnPage: 10,
-      cssStyle: 'light-theme'
-    });
-  });
 </script>

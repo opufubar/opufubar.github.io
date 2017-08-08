@@ -1,5 +1,5 @@
 +++
-title = "Tomoki Aburatani"
+title = "Aburatani Tomoki"
 +++
 
 ## <a href="https://tomokiaburatani.github.io">油谷 知岐 <img src="/image/member/aburatani.png" width="40" height="40" /></a>

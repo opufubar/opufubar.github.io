@@ -1,5 +1,5 @@
 +++
-title = "Sunataro Hosoi"
+title = "Hosoi Sunataro"
 +++
 
 ## 細井 砂太朗 <img src="/image/member/istanbul_0.jpg" width="50" height="50" />

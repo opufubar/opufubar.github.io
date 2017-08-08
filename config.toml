@@ -1,21 +1,20 @@
 baseURL = "https://opufubar.github.io/"
 languageCode = "ja"
 title = "大阪府立大学 教育系ITサークル OPU_Fu-Bar"
-PaginatePath="/post/1/"
-
+PaginatePath="/"
 theme = "nix"
 
 [menu]
   [[menu.header]]
     name = "dialy"
-    weight = 0
+    weight = 1
     url = "/post"
   [[menu.header]]
     name = "about-us"
     weight = 1
     url = "/about"
   [[menu.header]]
-    name = "members"
+    name = "member"
     weight = 2
     url = "/member"
   [[menu.header]]
