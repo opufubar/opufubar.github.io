@@ -12,21 +12,12 @@
     
     
     <item>
-      <title>product</title>
+      <title>Product</title>
       <link>https://opufubar.github.io/product/</link>
       <pubDate>Tue, 01 Aug 2017 19:35:13 +0900</pubDate>
       
       <guid>https://opufubar.github.io/product/</guid>
       <description> For Buissiness Contest </description>
-    </item>
-    
-    <item>
-      <title>Member</title>
-      <link>https://opufubar.github.io/member/</link>
-      <pubDate>Tue, 01 Aug 2017 04:46:25 +0900</pubDate>
-      
-      <guid>https://opufubar.github.io/member/</guid>
-      <description> 油田（代表）   代表ですが元マネジメント学類の文系で、プログラム歴半年くらいです。メンバーと共に頑張ってます！ 筑前煮が好きです  油谷   人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　知識システム研究室所属です． CommonLispを中心にプログラム全般が好きです．ElixirやPrologをメインに書きます． 関西Lispユーザ会を主催しています． 主に人間を系に含んだ人工知能，学習科学，教育システムなどを研究しています． オントロジー，エキスパートシステムなどの技術を使います．  橋本   人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　知識システム研究室所属（油谷と同じ）です． メインのメンバーの一人です． 教育情報システムを研究しています． プログラム好きですが，ガチプログラマーでは無いですいじめないでください． Macにステッカーを貼るのが好きです．  細井 砂太朗   Hollo World ! 創業メンバー 某、初心者故バリバリプログラミングが書けるよう邁進中 応化です  増澤   応用化学 海外ドラマ見るのが趣味 筑前煮は食べたことありません。今後も食べません。絶対に。 滑舌悪い且つ毒舌   </description>
     </item>
     
     <item>
@@ -214,6 +205,51 @@ Fu-Barの活動を簡単に説明したチラシが出来ました！
       
       <guid>https://opufubar.github.io/post/20170512/</guid>
       <description>まだ活動の詳細は決まっていませんが，とにかく，大阪府立大学プログラミング（IT）サークルFu-Barを結成しました！ これから詳しい活動内容を考えていきます！</description>
+    </item>
+    
+    <item>
+      <title>Haruki Hashimoto</title>
+      <link>https://opufubar.github.io/member/hashimoto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opufubar.github.io/member/hashimoto/</guid>
+      <description> 橋本 陽生  人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　知識システム研究室所属（油谷と同じ）です． メインのメンバーの一人です． 教育情報システムを研究しています． プログラム好きですが，ガチプログラマーでは無いですいじめないでください． Macにステッカーを貼るのが好きです．  </description>
+    </item>
+    
+    <item>
+      <title>Kazuki Aburata</title>
+      <link>https://opufubar.github.io/member/aburata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opufubar.github.io/member/aburata/</guid>
+      <description> 油田 一貴（代表）   代表ですが元マネジメント学類の文系で、プログラム歴半年くらいです。メンバーと共に頑張ってます！ 筑前煮が好きです  </description>
+    </item>
+    
+    <item>
+      <title>Naoki Masuda</title>
+      <link>https://opufubar.github.io/member/masuzawa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opufubar.github.io/member/masuzawa/</guid>
+      <description> 増澤 直貴  応用化学 海外ドラマ見るのが趣味 筑前煮は食べたことありません。今後も食べません。絶対に。 滑舌悪い且つ毒舌  </description>
+    </item>
+    
+    <item>
+      <title>Sunataro Hosoi</title>
+      <link>https://opufubar.github.io/member/hosoi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opufubar.github.io/member/hosoi/</guid>
+      <description> 細井 砂太朗   Hollo World ! 創業メンバー 某、初心者故バリバリプログラミングが書けるよう邁進中 応化です  </description>
+    </item>
+    
+    <item>
+      <title>Tomoki Aburatani</title>
+      <link>https://opufubar.github.io/member/aburatani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opufubar.github.io/member/aburatani/</guid>
+      <description> 油谷 知岐  人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　知識システム研究室所属です． CommonLispを中心にプログラム全般が好きです．ElixirやPrologをメインに書きます． 関西Lispユーザ会を主催しています． 主に人間を系に含んだ人工知能，学習科学，教育システムなどを研究しています． オントロジー，エキスパートシステムなどの技術を使います．  </description>
     </item>
     
   </channel>
