@@ -6,10 +6,6 @@
 ## 新規の日記投稿手順
 
 ```sh
-? 
-```
-
-```sh
 ? hugo new post/20170809.md
 ? less content/post/20170809.md
 +++
