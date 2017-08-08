@@ -1,5 +1,13 @@
+body {
+    height:100%;
+}
+
 .event-list {
     
+}
+
+.margin-div {
+    height: 100px;
 }
 
 .event-list-option {
