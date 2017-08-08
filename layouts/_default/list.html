@@ -12,11 +12,13 @@
 		<div class="container wrapper">
 			<div class="row">
 				<div class="col-xs-12 text-center">
-					<h1 id=>{{ .Title }}</h1>
+					<h1 id={{ .Title }}>{{ .Title }}</h1>
 				</div>
 			</div>
+			{{ $paginator := .Paginate (where .Data.Pages "Type" "post") 6}}
+
 			<ul id="post-list">
-				{{ range .Data.Pages }}
+			  {{ range $paginator.Pages }}
 				<li>
 					<div class="post-list-item">
 						<div class="post-header">
@@ -32,8 +34,12 @@
 				{{ end }}
 
 			</ul>
+			{{ template "_internal/pagination.html" . }}
+
 			<div class="push"></div>
 		</div>
+
+   
 		{{ partial "footer.html" . }}
 	</body>
 </html>

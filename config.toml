@@ -1,6 +1,7 @@
 baseURL = "https://opufubar.github.io/"
 languageCode = "ja"
 title = "大阪府立大学 教育系ITサークル OPU_Fu-Bar"
+PaginatePath="/post/1/"
 
 theme = "nix"
 
@@ -19,7 +20,7 @@ theme = "nix"
     url = "/member"
   [[menu.header]]
     name = "product"
-    weight = 2
+    weight = 3
     url = "/product"
 
 [params]
