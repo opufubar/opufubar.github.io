@@ -8,4 +8,4 @@ title = "Aburatani Tomoki"
 - 関西Lispユーザ会を主催しています．
 - 主に人間を系に含んだ人工知能，学習科学，教育システムなどを研究しています．
 - オントロジー，エキスパートシステムなどの技術を使います．
-
+- <span class="magic-string">I suffuring from the Chuni Disease</span>

@@ -1,6 +1,6 @@
 @font-face {
     font-family: MagicRing;
-    src url('./fonts/MagicRing.ttf') format("truetype");
+    src url('/fonts/magicring/MagicRing.ttf') format("truetype");
 }
 
 .magic-string {
