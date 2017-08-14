@@ -1,6 +1,6 @@
 @font-face {
     font-family: MagicRing;
-    src url('/fonts/magicring/MagicRing.ttf') format("truetype");
+    src url('https://opufubar.github.io/fonts/magicring/MagicRing.ttf') format("truetype");
 }
 
 .magic-string {
