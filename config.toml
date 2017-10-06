@@ -8,7 +8,7 @@ theme = "nix"
   [[menu.header]]
     name = "dialy"
     weight = 1
-    url = "/post"
+    url = "http://blog.livedoor.jp/fu_bar/"
   [[menu.header]]
     name = "about-us"
     weight = 1

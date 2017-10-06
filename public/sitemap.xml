@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://opufubar.github.io/member/nakagawa/</loc>
+    <lastmod>2017-10-06T19:27:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opufubar.github.io/member/nadamoto/</loc>
+    <lastmod>2017-10-06T19:27:28+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://opufubar.github.io/test/magicfont/</loc>
     <lastmod>2017-08-14T13:57:35+09:00</lastmod>
   </url>
@@ -109,6 +119,7 @@
   
   <url>
     <loc>https://opufubar.github.io/member/</loc>
+    <lastmod>2017-10-06T19:27:39+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -131,7 +142,7 @@
   
   <url>
     <loc>https://opufubar.github.io/</loc>
-    <lastmod>2017-08-14T13:57:35+09:00</lastmod>
+    <lastmod>2017-10-06T19:27:39+09:00</lastmod>
     <priority>0</priority>
   </url>
   
