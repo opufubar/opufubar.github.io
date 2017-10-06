@@ -4,5 +4,5 @@ title = "Nakagawa Chiito"
 
 +++
 
-## 中川智愛（ちぃ） <img src="/image/member/aburata.png" width="50" height="50" />
-- 特になし
+## 中川智愛（チート先輩） <img src="/image/member/aburata.png" width="50" height="50" />
+- 舞台を観に行くのが好きです．
