@@ -2,7 +2,7 @@
 title = "Aburatani Tomoki"
 +++
 
-## <a href="https://tomokiaburatani.github.io">油谷 知岐 （あぶちゃんさん）<img src="/image/member/aburatani.png" width="40" height="40" /></a>
+## <a href="https://dbym4820.github.io">油谷 知岐 （あぶちゃんさん）<img src="/image/member/aburatani.png" width="40" height="40" /></a>
 - 人間社会システム科学研究科　現代システム科学専攻　知識情報システム学分野　知識システム研究室所属です．
 - CommonLispを中心にプログラム全般が好きです．ElixirやPrologをメインに書きます．
 - 関西Lispユーザ会を主催しています．
