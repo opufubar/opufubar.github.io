@@ -1,0 +1,17 @@
+body {
+    height:100%;
+}
+
+.event-list {
+    
+}
+
+.margin-div {
+    height: 100px;
+}
+
+.event-list-option {
+    padding-left: 10px;
+    list-style-type: circle;
+    font-size: 1.5em;
+}
